@@ -9,4 +9,5 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  { "bluz71/vim-moonfly-colors", name = "moonfly", lazy = true, priority = 1000 },
 }
